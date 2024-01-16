@@ -44,7 +44,3 @@ flutter run
 3. Seleccionar una imagen de la galería.
 4. Pulsar el botón "Subir imagen".
 5. La imagen se subirá a Firebase Storage.
-
-## Licencia
-
-Esta aplicación está bajo la licencia MIT.
