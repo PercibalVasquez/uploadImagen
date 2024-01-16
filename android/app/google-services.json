@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "295061322850",
+    "project_id": "subirimagenes-1d7b3",
+    "storage_bucket": "subirimagenes-1d7b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295061322850:android:aeaea6062c75cc2aae653b",
+        "android_client_info": {
+          "package_name": "com.example.imagenew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxn-usezAj9OxyauPzMhtICsLlUjTcMHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295061322850:android:47a4fc96f1a8e4c1ae653b",
+        "android_client_info": {
+          "package_name": "com.example.uploadimg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxn-usezAj9OxyauPzMhtICsLlUjTcMHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
